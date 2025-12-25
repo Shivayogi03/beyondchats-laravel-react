@@ -79,7 +79,7 @@ Frontend can display this updated content if available
 
 
 ## 🖼 Screenshot
-"C:\Users\User\Pictures\Screenshots\LARAVEL.png"
+https://github.com/Shivayogi03/beyondchats-laravel-react/blob/main/LARAVEL.png
 
 🗂 Data Flow / Architecture
 scss
