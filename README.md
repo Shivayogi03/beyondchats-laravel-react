@@ -56,6 +56,8 @@ npm run dev
 React frontend runs at: http://localhost:5173
 
 Displays:
+<img width="686" height="307" alt="image" src="https://github.com/user-attachments/assets/d1d1c4e5-660c-47ca-869d-448ddd3f0df7" />
+
 
 📰 Original Articles
 
