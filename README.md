@@ -22,6 +22,11 @@ frontend-react/ # ⚛️ ReactJS frontend
 
 nodejs-llm/ # 🤖 Optional NodeJS AI updater
 
+
+
+## 🖼 Screenshot
+![Frontend React Screenshot](https://raw.githubusercontent.com/Shivayogi03/beyondchats-laravel-react/main/LARAVEL.png)
+
 yaml
 ---
 
