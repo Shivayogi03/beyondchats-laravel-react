@@ -74,6 +74,11 @@ Generates updated AI content
 
 Frontend can display this updated content if available
 
+🌐 Live Link
+
+- React frontend demo (Original + Updated Articles): https://sparkling-duckanoo-d8882f.netlify.app/
+
+
 🗂 Data Flow / Architecture
 scss
 [⚛️ Frontend React] <--fetch--> [💻 Laravel API] <--CRUD--> [🗄 Database]
