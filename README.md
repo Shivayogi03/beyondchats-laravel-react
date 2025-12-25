@@ -1,31 +1,31 @@
-# BeyondChats Assignment Submission
+# 🚀 BeyondChats Assignment Submission
 
-## Overview
+## 📝 Overview
 
 This repository contains a small project demonstrating:
 
-- **Laravel backend**: CRUD API for articles (Phase 1 & 3)
-- **React frontend**: Fetches articles and displays Original + Updated/AI versions (Phase 3)
-- **NodeJS LLM script**: Optional Phase 2 AI updater (simulated if not implemented)
+- **💻 Laravel backend**: CRUD API for articles (Phase 1 & 3)  
+- **⚛️ React frontend**: Fetches articles and displays Original + Updated/AI versions (Phase 3)  
+- **🤖 NodeJS LLM script**: Optional Phase 2 AI updater (simulated if not implemented)
 
 > Phase 2 AI logic is simulated in frontend to complete Phase 3 UI demonstration.
 
 ---
 
-## Project Structure
+## 📁 Project Structure
 
-backend-laravel/ # Laravel API for articles
-frontend-react/ # ReactJS frontend
-nodejs-llm/ # Optional NodeJS AI updater
+backend-laravel/ # 💻 Laravel API for articles
+frontend-react/ # ⚛️ ReactJS frontend
+nodejs-llm/ # 🤖 Optional NodeJS AI updater
 
 yaml
 Copy code
 
 ---
 
-## Local Setup Instructions
+## ⚙️ Local Setup Instructions
 
-### 1. Backend (Laravel)
+### 1️⃣ Backend (Laravel)
 
 ```bash
 cd backend-laravel
@@ -46,7 +46,7 @@ GET /api/articles/ai → Articles with AI analysis
 
 GET /api/articles/high-relevance → High-relevance articles
 
-2. Frontend (React)
+2️⃣ Frontend (React)
 bash
 Copy code
 cd frontend-react
@@ -56,13 +56,13 @@ React frontend runs at: http://localhost:5173
 
 Displays:
 
-Original Articles
+📰 Original Articles
 
-Updated / AI Articles (simulated if Phase 2 not implemented)
+✨ Updated / AI Articles (simulated if Phase 2 not implemented)
 
 Make sure Laravel backend is running before starting frontend.
 
-3. NodeJS (Optional Phase 2 AI)
+3️⃣ NodeJS (Optional Phase 2 AI)
 bash
 Copy code
 cd nodejs-llm
@@ -74,16 +74,13 @@ Generates updated AI content
 
 Frontend can display this updated content if available
 
-Data Flow / Architecture
+🗂 Data Flow / Architecture
 scss
 Copy code
-[Frontend React] <--fetch--> [Laravel API] <--CRUD--> [Database]
-                          \
-                           --> [NodeJS LLM] (Optional AI updates)
-
-
-Notes
-
+[⚛️ Frontend React] <--fetch--> [💻 Laravel API] <--CRUD--> [🗄 Database]
+                                \
+                                 --> [🤖 NodeJS LLM] (Optional AI updates)
+📝 Notes
 Partial work is acceptable: Phase 2 AI logic is simulated in frontend
 
 Phase 1 CRUD APIs + Phase 3 React UI fully implemented
@@ -92,8 +89,7 @@ Code follows Laravel + React best practices
 
 This project demonstrates end-to-end flow from backend → frontend → optional AI updates
 
-Submission Checklist
-
+✅ Submission Checklist
  Monolithic GitHub repo with backend, frontend, NodeJS (optional)
 
  Fully working Laravel backend (Phase 1 + 3)
