@@ -79,7 +79,6 @@ Frontend can display this updated content if available
 
 
 ## 🖼 Screenshot
-https://github.com/Shivayogi03/beyondchats-laravel-react/blob/main/LARAVEL.png
 
 ![Frontend React Screenshot](https://raw.githubusercontent.com/Shivayogi03/beyondchats-laravel-react/blob/main/LARAVEL.png)
 
