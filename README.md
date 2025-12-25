@@ -90,14 +90,11 @@ scss
                                  --> [🤖 NodeJS LLM] (Optional AI updates)
 
 
-📝 Notes
-Partial work is acceptable: Phase 2 AI logic is simulated in frontend
+### 📑Notes
 
-Phase 1 CRUD APIs + Phase 3 React UI fully implemented
-
-Code follows Laravel + React best practices
-
-This project demonstrates end-to-end flow from backend → frontend → optional AI updates
+- Phase 2 (NodeJS AI updates) is simulated in frontend using even/odd article splitting.
+- Original articles come from Laravel backend (Phase 1 & 3 fully implemented).
+- The frontend demonstrates Original + Updated/AI view for Phase 3 UI submission.
 
 
 ✅ Submission Checklist
