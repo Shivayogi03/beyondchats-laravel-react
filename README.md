@@ -79,6 +79,8 @@ scss
 [⚛️ Frontend React] <--fetch--> [💻 Laravel API] <--CRUD--> [🗄 Database]
                                 \
                                  --> [🤖 NodeJS LLM] (Optional AI updates)
+
+
 📝 Notes
 Partial work is acceptable: Phase 2 AI logic is simulated in frontend
 
@@ -87,6 +89,7 @@ Phase 1 CRUD APIs + Phase 3 React UI fully implemented
 Code follows Laravel + React best practices
 
 This project demonstrates end-to-end flow from backend → frontend → optional AI updates
+
 
 ✅ Submission Checklist
 
