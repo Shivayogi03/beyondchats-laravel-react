@@ -79,8 +79,8 @@ Frontend can display this updated content if available
 
 
 ## 🖼 Screenshot
+![Frontend React Screenshot](https://raw.githubusercontent.com/Shivayogi03/beyondchats-laravel-react/main/LARAVEL.png)
 
-![Frontend React Screenshot](https://raw.githubusercontent.com/Shivayogi03/beyondchats-laravel-react/blob/main/LARAVEL.png)
 
 
 🗂 Data Flow / Architecture
