@@ -4,8 +4,10 @@
 
 This repository contains a small project demonstrating:
 
-- **💻 Laravel backend**: CRUD API for articles (Phase 1 & 3)  
-- **⚛️ React frontend**: Fetches articles and displays Original + Updated/AI versions (Phase 3)  
+- **💻 Laravel backend**: CRUD API for articles (Phase 1 & 3)
+  
+- **⚛️ React frontend**: Fetches articles and displays Original + Updated/AI versions (Phase 3)
+  
 - **🤖 NodeJS LLM script**: Optional Phase 2 AI updater (simulated if not implemented)
 
 > Phase 2 AI logic is simulated in frontend to complete Phase 3 UI demonstration.
@@ -15,12 +17,12 @@ This repository contains a small project demonstrating:
 ## 📁 Project Structure
 
 backend-laravel/ # 💻 Laravel API for articles
+
 frontend-react/ # ⚛️ ReactJS frontend
+
 nodejs-llm/ # 🤖 Optional NodeJS AI updater
 
 yaml
-Copy code
-
 ---
 
 ## ⚙️ Local Setup Instructions
@@ -48,7 +50,6 @@ GET /api/articles/high-relevance → High-relevance articles
 
 2️⃣ Frontend (React)
 bash
-Copy code
 cd frontend-react
 npm install
 npm run dev
@@ -64,7 +65,6 @@ Make sure Laravel backend is running before starting frontend.
 
 3️⃣ NodeJS (Optional Phase 2 AI)
 bash
-Copy code
 cd nodejs-llm
 npm install
 node index.js
@@ -76,7 +76,6 @@ Frontend can display this updated content if available
 
 🗂 Data Flow / Architecture
 scss
-Copy code
 [⚛️ Frontend React] <--fetch--> [💻 Laravel API] <--CRUD--> [🗄 Database]
                                 \
                                  --> [🤖 NodeJS LLM] (Optional AI updates)
@@ -90,6 +89,7 @@ Code follows Laravel + React best practices
 This project demonstrates end-to-end flow from backend → frontend → optional AI updates
 
 ✅ Submission Checklist
+
  Monolithic GitHub repo with backend, frontend, NodeJS (optional)
 
  Fully working Laravel backend (Phase 1 + 3)
