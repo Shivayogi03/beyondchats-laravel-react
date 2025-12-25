@@ -55,9 +55,6 @@ npm install
 npm run dev
 React frontend runs at: http://localhost:5173
 
-Displays:
-<img width="686" height="307" alt="image" src="https://github.com/user-attachments/assets/d1d1c4e5-660c-47ca-869d-448ddd3f0df7" />
-
 
 📰 Original Articles
 
@@ -80,6 +77,9 @@ Frontend can display this updated content if available
 
 - React frontend demo (Original + Updated Articles): https://sparkling-duckanoo-d8882f.netlify.app/
 
+
+## 🖼 Screenshot
+"C:\Users\User\Pictures\Screenshots\LARAVEL.png"
 
 🗂 Data Flow / Architecture
 scss
